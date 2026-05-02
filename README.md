@@ -15,9 +15,8 @@ This project focuses on analyzing business sales data to understand performance 
 
 ## 🛠️ Tools & Technologies
 
-* Python (Pandas, NumPy)
-* Data Visualization (Matplotlib / Seaborn / Power BI)
-* Excel / CSV datasets
+* Data Visualization (Matplotlib)
+* Excel
 
 ## 📂 Dataset
 
@@ -41,16 +40,3 @@ The dataset includes:
 * Graphs and charts
 * Insights and business recommendations
 
-## 🚀 How to Run
-
-1. Clone the repository
-2. Install required libraries
-3. Run the analysis scripts
-
-## 🤝 Contribution
-
-Feel free to fork and contribute to this project!
-
-## 📧 Contact
-
-For any queries, contact me.
